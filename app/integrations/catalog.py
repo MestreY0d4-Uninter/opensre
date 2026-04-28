@@ -86,8 +86,6 @@ _SERVICE_KEY_MAP = {
     "open search": "opensearch",
     "alertmanager": "alertmanager",
     "argocd": "argocd",
-    "argo cd": "argocd",
-    "argo-cd": "argocd",
 }
 
 
