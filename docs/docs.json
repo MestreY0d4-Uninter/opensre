@@ -55,6 +55,7 @@
             "defaultOpen": true,
             "pages": [
               "alertmanager",
+              "argocd",
               "azure-monitor",
               "betterstack",
               "bitbucket",
